@@ -1,4 +1,4 @@
-# How to user JWT in nodeJs
+# How to use JWT in nodeJs
 
 JWT same token can be used into multiple server.
 
